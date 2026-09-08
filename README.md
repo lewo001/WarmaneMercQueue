@@ -1,8 +1,10 @@
+
 # WarmaneMercQueue (WMQ)
 
 A lightweight World of Warcraft (WotLK 3.3.5a) AddOn built specifically for Warmane. It displays real-time Battleground and Arena queue timers with multi-queue support and dynamic Mercenary Mode status detection.
-
----
+ <p align="center">
+  <img width="470" height="67" alt="wmq" src="https://github.com/user-attachments/assets/a70b705b-6ba6-4309-80f0-3e3a48684a53" />
+</p>
 
 ## Features
 
