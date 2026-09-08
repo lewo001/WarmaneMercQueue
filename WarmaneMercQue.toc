@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Warmane Mercenary Queue Timer
+## Notes: Displays live Battleground queue time and highlights Mercenary Mode status in Red.
+## Author: Lewo
+## Version: 1.1
+## SavedVariables: WarmaneMercQueueDB
+
+Core.lua
