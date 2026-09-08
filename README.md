@@ -14,11 +14,12 @@ A lightweight World of Warcraft (WotLK 3.3.5a) AddOn built specifically for Warm
 
 Access settings using `/wmq` or `/mercqueue`:
 
-```text
+```
 /wmq lock          Locks the frame position
 /wmq unlock        Unlocks the frame to drag and reposition
 /wmq scale <val>   Adjusts size (e.g., /wmq scale 120 or 1.2)
 /wmq alpha <val>   Adjusts transparency (e.g., /wmq alpha 75 or 0.75)
 /wmq reset        Resets position, scale, and opacity to default
 ````
+Download the latest version [here](https://github.com/lewo001/WarmaneMercQueue/releases/download/wmq-1.0/WarmaneMercQue.rar).
 
